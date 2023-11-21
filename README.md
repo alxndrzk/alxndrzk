@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 
-<img align="right" style="margin-left: 100;" margin alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" style="margin-left: 100;" margin alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <h3 align="center">I'm someone who is always learning at every opportunity, exhibiting high work motivation, highly adaptable, and a positive attitude. I embrace challenges with enthusiasm and am a knowledge-hungry learner. I contribute as a Teaching Assistant at the Software Engineering Laboratory, and a part of Bangkit 2023 Mobile Development Learning Path. Currently, I'm highly focused on programming, particularly in Android development. I always strive to give my best in everything I do, constantly seeking opportunities for growth and learning.</h3>
 
