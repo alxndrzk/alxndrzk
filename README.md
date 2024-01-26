@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alxndrzk&label=Profile%20views&color=0e75b6&style=flat" alt="alxndrzk" /> </p>
 
-- 🌱 I’m currently learning **android, laravel**
+- 🌱 I’m currently learning **mobile and website**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alxndrzk?tab=repositories](https://github.com/alxndrzk?tab=repositories)
 
